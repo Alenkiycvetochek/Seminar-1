@@ -1,0 +1,15 @@
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/bin/Debug/net6.0/S001
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/bin/Debug/net6.0/S001.deps.json
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/bin/Debug/net6.0/S001.runtimeconfig.json
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/bin/Debug/net6.0/S001.dll
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/bin/Debug/net6.0/S001.pdb
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/obj/Debug/net6.0/S001.csproj.AssemblyReference.cache
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/obj/Debug/net6.0/S001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/obj/Debug/net6.0/S001.AssemblyInfoInputs.cache
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/obj/Debug/net6.0/S001.AssemblyInfo.cs
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/obj/Debug/net6.0/S001.csproj.CoreCompileInputs.cache
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/obj/Debug/net6.0/S001.dll
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/obj/Debug/net6.0/refint/S001.dll
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/obj/Debug/net6.0/S001.pdb
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/obj/Debug/net6.0/S001.genruntimeconfig.cache
+/Users/alinaalinushka/Seminar 1/Seminar001/S001/obj/Debug/net6.0/ref/S001.dll
